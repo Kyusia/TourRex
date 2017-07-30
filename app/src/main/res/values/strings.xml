@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TourRex</string>
+        <string name="app_natura">Natura</string>
+        <string name="app_podroze">Podroze</string>
+        <string name="app_jedzenie">Jedzenie</string>
+        <string name="app_tools">Tools</string>
+        <string name="app_communicate">Communicate</string>
+        <string name="app_share">Share</string>
+        <string name="app_send">Send</string>
+        <string name="appmenuname">England</string>
+
+        <string name="navdemo">England</string>
+        <string name="podroze">Lista zabytkow, muzeów</string>
+        <string name="natura">Lista krajobrazów, parków, ogrodów</string>
+        <string name="jedzenie">Lista restauracji, kawiarni, pubów</string>
+
+        <string name="action_settings">settings</string>
+
+        <string name="navigation_drawer_open">Open Navigation Drawer</string>
+        <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    </resources>

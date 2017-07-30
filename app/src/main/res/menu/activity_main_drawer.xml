@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/podroze"
+            android:icon="@drawable/ic_monuments"
+            android:title="@string/app_podroze" />
+        <item
+            android:id="@+id/natura"
+            android:icon="@drawable/ic_nature"
+            android:title="@string/app_natura" />
+        <item
+            android:id="@+id/jedzenie"
+            android:icon="@drawable/ic_restaurants"
+            android:title="@string/app_jedzenie" />
+        <item
+            android:id="@+id/navtools"
+            android:icon="@drawable/ic_build_black_24dp"
+            android:title="@string/app_tools" />
+    </group>
+
+    <item android:title="@string/app_communicate">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="@string/app_share" />
+            <item
+                android:id="@+id/send"
+                android:icon="@drawable/ic_send_black_24dp"
+                android:title="@string/app_send" />
+        </menu>
+    </item>
+
+</menu>
